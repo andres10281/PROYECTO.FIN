@@ -1,3 +1,6 @@
+// Oscar Andres Mosquera Hinestroza
+// Ivan Alonso Hernandez
+
 #include <iostream>
 #include <malloc.h>
 
